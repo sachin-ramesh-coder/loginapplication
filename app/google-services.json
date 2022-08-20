@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333649873137",
+    "project_id": "cinema-scope-dd589",
+    "storage_bucket": "cinema-scope-dd589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333649873137:android:6d25096bb11ceb4a4c8150",
+        "android_client_info": {
+          "package_name": "com.protech.loginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333649873137-t3fuom8bpsamr8j61i7nbr49nm26q1ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzp5erXBXM0ShvU-KFwZvZt3dPL_rAZ5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333649873137-t3fuom8bpsamr8j61i7nbr49nm26q1ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
