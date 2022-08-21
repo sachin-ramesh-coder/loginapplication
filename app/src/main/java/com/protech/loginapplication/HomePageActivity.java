@@ -23,7 +23,7 @@
 
          webView = (WebView) findViewById(R.id.webview);
          webView.setWebViewClient(new WebViewClient());
-         webView.loadUrl("http://www.google.com/");
+         webView.loadUrl("https://www.google.com/");
 
          WebSettings webSettings = webView.getSettings();
          webSettings.setJavaScriptEnabled(true);
